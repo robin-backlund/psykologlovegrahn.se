@@ -150,4 +150,5 @@ h5 {
   font-size: 15px;
   font-weight: 200;
   letter-spacing: 0.6;
+  overflow: hidden;
 }
